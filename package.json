@@ -1,0 +1,17 @@
+{
+  "name": "django_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node comment.js"
+  },
+  "author": "moisesdelacruz",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "normalize.styl": "^3.0.3",
+    "redis": "^2.7.1",
+    "socket.io": "^1.7.3"
+  }
+}
